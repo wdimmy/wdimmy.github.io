@@ -52,11 +52,11 @@ Conference Papers
 <b>Dingmin Wang</b>, Meng Fang, Yan Song, Juntao Li. <i>IJCAI 2019 Workshop (SemDeep-5) </i>. [[PDF]](https://www.aclweb.org/anthology/W19-5803/) [[BibTeX]](/publications/ijcai19-semdeep5) 
 
 <b>[A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](/publications/emnlp2018)</b> <br>
-<b>Dingmin Wang</b>, Yan Song, Jing Li, etc. <i>EMNLP 2018 </i>. [[PDF]](https://www.aclweb.org/anthology/D18-1273/) [[Code]](https://github.com/wdimmy/Automatic-Corpus-Generation) [[BibTeX]](/publications/emnlp2018) 
+<b>Dingmin Wang</b>, Yan Song, Jing Li, Jialong Han, Haisong Zhang. <i>EMNLP 2018 </i>. [[PDF]](https://www.aclweb.org/anthology/D18-1273/) [[Code]](https://github.com/wdimmy/Automatic-Corpus-Generation) [[BibTeX]](/publications/emnlp2018) 
 
 
 <b>[A New Benchmark and Evaluation Schema for Chinese Typo Detection and Correction](/publications/aaai2018)</b> <br>
-<b>Dingmin Wang</b>, Gabriel Pui Cheong Fung, Maxime Debosschere, Shichao Dong, Jia Zhu, Kam-Fai Wong <i>AAAI 2018 Student Abstract </i>. 
+<b>Dingmin Wang</b>, Gabriel Pui Cheong Fung, Maxime Debosschere, Shichao Dong, Jia Zhu, Kam-Fai Wong. <i>AAAI 2018 Student Abstract </i>. 
 [[PDF]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16742) [[BibTeX]](/publications/aaai2018)
 
 
