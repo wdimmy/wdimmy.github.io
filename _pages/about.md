@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: 
 excerpt: 
 author_profile: true
 redirect_from: 
@@ -15,12 +15,12 @@ redirect_from:
 
 About me
 ======
-I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently I am a Researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
+I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently I am a researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
 
 Research Interests
 ======
 * Natural language text generation
-* Chinese Spelling Checking, Part-of-speech Tagging
+* Chinese Spelling Checking, Cross-lingual Part-of-speech Tagging
 * Deep learning and its application on NLP
 
 Education
@@ -30,7 +30,7 @@ Education
       M.S., Dept. of Computer Science and Technology, Tsinghua University</li>
       <li>Sept. 2011 - Jun. 2015<br>
       B.E., School of Computer Science, North China Electric Power University<br></li>
-      <li> <b>Selected Awards</b>: Principle Scholarship (Top 3 students of all undergraduate students), National Scholarship, Beijing Excellent Graduate</li>
+      <li> <b>Selected Awards</b>: Presidential Fellowship (Top 3 students of all undergraduate students), National Scholarship, Beijing Excellent Graduate</li>
  </ul>
 
 Experience
