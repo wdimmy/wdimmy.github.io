@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Latest News
-- 05/2019: One paper is accepted and I will give an oral presentation at [ACL 2019](http://www.acl2019.org/EN/program.xhtml) (Florence, Italy).
-- 05/2019: One workshop paper is accepted and I will give an oral presentation  at [IJCAI 2019](https://www.aclweb.org/portal/content/5th-workshop-semantic-deep-learning-semdeep-5) (Macao, China).
+- 05/2019: One paper is accepted and I will give an oral pre at [ACL 2019](http://www.acl2019.org/EN/program.xhtml) (Florence, Italy).
+- 05/2019: One workshop paper is accepted and I will give an oral pre at [IJCAI 2019](https://www.aclweb.org/portal/content/5th-workshop-semantic-deep-learning-semdeep-5) (Macao, China).
 - 08/2018: One paper is accepted by [EMNLP 2018](https://www.emnlp-ijcnlp2019.org/program/accepted/) (Brussels, Belgium). 
 
 About me
@@ -29,17 +29,17 @@ Education
       <li>Sept. 2015 - Mar. 2018<br>
       M.S., Dept. of Computer Science and Technology, Tsinghua University</li>
       <li>Sept. 2011 - Jun. 2015<br>
-      B.E., Dept. of Control and Computer Science Engineering, North China Electric Power University<br>
-      Awards: Principle Scholarship (Top 3 students of all undergraduate students), National Scholarship, Beijing Excellent Graduate</li>
+      B.E., Dept. of Control and Computer Science Engineering, North China Electric Power University<br></li>
+      <li> <b>Selected Awards</b>: Principle Scholarship (Top 3 students of all undergraduate students), National Scholarship, Beijing Excellent Graduate</li>
  </ul>
 
 Experience
 ======
 <ul>
     <li>July. 2018 - now, <b>Researcher</b><br> Tencent Cloud AI, Shenzhen, China</li> 
-    <li>Jan. 2018 - June. 2018, <b>Research Inter</b><br> Tencent AI Lab, Advisor: <a href="https://www.linkedin.com/in/yan-song-a2918827/" target="_black"> Dr. Yan Song</a></li> 
+    <li>Jan. 2018 - June. 2018, <b>Research Inter</b><br> Tencent AI Lab, Mentor: <a href="https://www.linkedin.com/in/yan-song-a2918827/" target="_black"> Dr. Yan Song</a></li> 
     <li>Dec. 2016 - Dec.2017, <b>Research assistant</b> <br> The Chinese University of Hong Kong, Supervisors: <a href="http://www.cintec.cuhk.edu.hk/kfwong/" target="_black">Prof. WONG, Kam Fai</a>, <a href="http://www1.se.cuhk.edu.hk/~pcfung/" target="_black">Dr. Gabriel Fung</a></li>
-    <li>Jun. 2015 -Aug. 2015, <b>Software Engineer Intern</b><br> <a href="http://ai.tencent.com/ailab/index.html" target="_black">Tencent AI Lab</a>, Mentors:<a href="https://www.linkedin.com/in/martincai/" target="_black"> Martin Cai </a>
+    <li>Jun. 2015 -Aug. 2015, <b>Software Engineer Intern</b><br> Microsoft China, Mentor:<a href="https://www.linkedin.com/in/martincai/" target="_black"> Martin Cai </a>
 </li>
 </ul> 
 
@@ -50,6 +50,7 @@ Dingmin Wang, Yi Tay, Li Zhong. <i>ACL 2019 (Oral) </i>. [[PDF]](https://www.acl
 
 <b>[Bridging the Gap: Improve Part-of-speech Tagging for {C}hinese Social Media Texts with Foreign Words](/publications/ijcai19-semdeep5)</b> <br>
 Dingmin Wang, Meng Fang, Yan Song,Juntao Li. <i>IJCAI 2019 Workshop (SemDeep-5) </i>. [[PDF]](https://www.aclweb.org/anthology/W19-5803/) [[BibTeX]](/publications/ijcai19-semdeep5) 
+
 <b>[A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](/publications/emnlp2018)</b> <br>
 Dingmin Wang, Yan Song, Jing Li, Jialong Han, Haisong Zhang. <i>EMNLP 2018 </i>. [[PDF]](https://www.aclweb.org/anthology/D18-1273/) [[Code]](https://github.com/wdimmy/Automatic-Corpus-Generation) [[BibTeX]](/publications/emnlp2018) 
 
@@ -66,8 +67,8 @@ Gabriel Pui Cheong Fung, Maxime Debosschere, Dingmin Wang, Bo Li, Jia Zhu, and K
 Journal Papers
 ======
 <b>[HQTimer: A Hybrid Q-Learning-Based Timeout Mechanism in Software-Defined Networks](/publications/journal)</b> <br>
-Qing Li, Nanyang Huang, Dingmin Wang, Xiaowen Li, Yong Jiang, Zhendong Song. <i>ACL 2019</i>. [[PDF]](https://ieeexplore.ieee.org/document/8600383) [[BibTeX]](/publications/journal)
+Qing Li, Nanyang Huang, Dingmin Wang, Xiaowen Li, Yong Jiang, Zhendong Song. <i>IEEE Trans. Network and Service Management</i>. [[PDF]](https://ieeexplore.ieee.org/document/8600383) [[BibTeX]](/publications/journal)
 
 Miscellaneous
 ======
-* I was an entrepreneur of the start-up army when I was an sophomore student, got 100,000RMB initial funding [News](https://news.ncepu.edu.cn/hdbd/hdbd1/26678.htm) and buiding a company called  "Beijing Green Energy Culture Media Co., Ltd. " [News](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwZ6MmbRAI-4j1ldN8aPCSrQmd&from=ps). MAKE NO MONEY!!! Although the company still exists, I am the history.
+* I was an entrepreneur of the start-up army when I was an sophomore student, got 100,000RMB initial funding [[News]](https://news.ncepu.edu.cn/hdbd/hdbd1/26678.htm) and buiding a company called  "Beijing Green Energy Culture Media Co., Ltd. " [[News]](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwZ6MmbRAI-4j1ldN8aPCSrQmd&from=ps). MAKE NO MONEY!!! Although the company still exists, I am the history.
