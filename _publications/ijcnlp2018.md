@@ -27,11 +27,11 @@ citation:
     address = "Taipei, Taiwan",
     publisher = "Asian Federation of Natural Language Processing",
     url = "https://www.aclweb.org/anthology/W17-5905",
-    pages = "29--34",
-    abstract = "This paper provides an overview along with our findings of the Chinese Spelling Check shared task at NLPTEA 2017. The goal of this task is to develop a computer-assisted system to automatically diagnose typing errors in traditional Chinese sentences written by students. We defined six types of errors which belong to two categories. Given a sentence, the system should detect where the errors are, and for each detected error determine its type and provide correction suggestions. We designed, constructed, and released a benchmark dataset for this task.",
+    pages = "29--34"
 }
 </font>
 </pre>
+
 
 ## Abstract
 This paper provides an overview along with our findings of the Chinese Spelling Check shared task at NLPTEA 2017. The goal of this task is to develop a computer-assisted system to automatically diagnose typing errors in traditional Chinese sentences written by students. We defined six types of errors which belong to two categories. Given a sentence, the system should detect where the errors are, and for each detected error determine its type and provide correction suggestions. We designed, constructed, and released a benchmark dataset for this task.

@@ -61,7 +61,7 @@ Conference Papers
 
 
 <b>[NLPTEA 2017 Shared Task -- Chinese Spelling Check](/publications/ijcnlp2018)</b> <br>
-Gabriel Pui Cheong Fung, Maxime Debosschere,  </b>Dingmin Wang</b>, Bo Li, Jia Zhu, and Kam-Fai Wong. <i>IJCNLP 2017 Shared Task</i>. [[PDF]](https://www.aclweb.org/anthology/W17-5905) [[BibTeX]](/publications/ijcnlp2018)
+Gabriel Pui Cheong Fung, Maxime Debosschere,  <b>Dingmin Wang</b>, Bo Li, Jia Zhu, and Kam-Fai Wong. <i>IJCNLP 2017 Shared Task</i>. [[PDF]](https://www.aclweb.org/anthology/W17-5905) [[BibTeX]](/publications/ijcnlp2018)
 
 
 Journal Papers

@@ -27,11 +27,11 @@ citation:
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/D18-1273",
     doi = "10.18653/v1/D18-1273",
-    pages = "2517--2527",
-    abstract = "Chinese spelling check (CSC) is a challenging yet meaningful task, which not only serves as a preprocessing in many natural language processing(NLP) applications, but also facilitates reading and understanding of running texts in peoples{'} daily lives. However, to utilize data-driven approaches for CSC, there is one major limitation that annotated corpora are not enough in applying algorithms and building models. In this paper, we propose a novel approach of constructing CSC corpus with automatically generated spelling errors, which are either visually or phonologically resembled characters, corresponding to the OCR- and ASR-based methods, respectively. Upon the constructed corpus, different models are trained and evaluated for CSC with respect to three standard test sets. Experimental results demonstrate the effectiveness of the corpus, therefore confirm the validity of our approach.",
+    pages = "2517--2527"
 }
 </font>
 </pre>
+
 
 ## Abstract
 Chinese spelling check (CSC) is a challenging yet meaningful task, which not only serves as a preprocessing in many natural language processing(NLP) applications, but also facilitates reading and understanding of running texts in peoples’ daily lives. However, to utilize data-driven approaches for CSC, there is one major limitation that annotated corpora are not enough in applying algorithms and building models. In this paper, we propose a novel approach of constructing CSC corpus with automatically generated spelling errors, which are either visually or phonologically resembled characters, corresponding to the OCR- and ASR-based methods, respectively. Upon the constructed corpus, different models are trained and evaluated for CSC with respect to three standard test sets. Experimental results demonstrate the effectiveness of the corpus, therefore confirm the validity of our approach.

@@ -25,10 +25,11 @@ citation:
     address = "Macau, China",
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/W19-5803",
-    pages = "12--20",
+    pages = "12--20"
 }
 </font>
 </pre>
+
 
 ## Abstract
 Multilingual speakers often switch between languages and generate enormous quantities of cross-language data. This phenomenon is
