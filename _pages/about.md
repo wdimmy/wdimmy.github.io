@@ -64,6 +64,9 @@ Gabriel Pui Cheong Fung, Maxime Debosschere,  <b>Dingmin Wang</b>, Bo Li, Jia Zh
 
 Journal Papers
 ======
+<b>Multi-source Co-attention Memory Pointer Network with Gating Mechanism for Task Oriented Dialog Systems</b> <br>
+<b>Dingmin Wang</b>, etc.<i>IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING</i>.  (Under Review)
+
 <b>[HQTimer: A Hybrid Q-Learning-Based Timeout Mechanism in Software-Defined Networks](/publications/journal)</b> <br>
 Qing Li, Nanyang Huang, <b>Dingmin Wang</b>, Xiaowen Li, Yong Jiang, Zhendong Song. <i>IEEE Trans. Network and Service Management</i>. [[PDF]](https://ieeexplore.ieee.org/document/8600383) [[BibTeX]](/publications/journal)
 
