@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+My current research topics focus on deep learning applications in natural language processing, in particular, dialogue systems. Previously, I have worked a lot on Chinese spelling check, as well as a little bit on cross-lingual part-of-speech tagging.
+
+
 Conference Papers
 ======
 <b>[Confusionset-guided Pointer Networks for Chinese Spelling Check](/publications/acl2019)</b> <br>

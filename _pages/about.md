@@ -1,20 +1,19 @@
 ---
 permalink: /
-title: 
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently I am a researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
+
 ## Latest News
 - 05/2019: One paper is accepted and I will give an oral pre at [ACL 2019](http://www.acl2019.org/EN/program.xhtml) (Florence, Italy).
 - 05/2019: One workshop paper is accepted and I will give an oral pre at [IJCAI 2019](https://www.aclweb.org/portal/content/5th-workshop-semantic-deep-learning-semdeep-5) (Macao).
 - 08/2018: One paper is accepted by [EMNLP 2018](https://www.emnlp-ijcnlp2019.org/program/accepted/) (Brussels, Belgium). 
 
-About me
-======
-I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently I am a researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
 
 Research Interests
 ======
