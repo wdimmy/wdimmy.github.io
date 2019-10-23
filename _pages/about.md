@@ -72,4 +72,6 @@ Qing Li, Nanyang Huang, <b>Dingmin Wang</b>, Xiaowen Li, Yong Jiang, Zhendong So
 
 Miscellaneous
 ======
-* I was an entrepreneur of the start-up army when I was an sophomore student, got 100,000RMB initial funding [[News]](https://news.ncepu.edu.cn/hdbd/hdbd1/26678.htm) and buiding a company called  "Beijing Green Energy Culture Media Co., Ltd. " [[News]](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwZ6MmbRAI-4j1ldN8aPCSrQmd&from=ps). MAKE NO MONEY!!! Although the company still exists, I am the history.
+* I was ever a member of the start-up army when I was a sophomore student, getting 100,000RMB initial funding [[News]](https://news.ncepu.edu.cn/hdbd/hdbd1/26678.htm), and buiding a company called  "Beijing Green Energy Culture Media Co., Ltd. " [[News]](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwZ6MmbRAI-4j1ldN8aPCSrQmd&from=ps). I completed all the registering process by myself, which was an unforgetable experience in my life but was really really really a torment.  So so sadly, The company never MADE MONEY!!!  Now, although the company still exists, I am the past.
+
+* I love all kinds of sports activities, among which badminton and swimming are my favorite.
