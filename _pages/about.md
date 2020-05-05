@@ -75,4 +75,6 @@ Miscellaneous
 ======
 * I was ever a member of the start-up army when I was a sophomore student, getting 100,000RMB initial funding [[News]](https://news.ncepu.edu.cn/hdbd/hdbd1/26678.htm), and buiding a company called  "Beijing Green Energy Culture Media Co., Ltd. " [[News]](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwZ6MmbRAI-4j1ldN8aPCSrQmd&from=ps). I completed the whole company registration process by myself, which was an unforgetable experience in my life but was really really really a torment.  So so sadly, the company never MADE MONEY!!!  Now, although the company still exists, I am the past.
 
+* I took part in several Wushu Competitions when I was a undergrad, mainly performing Tai Chi, a kind of health-keeping martial art. Proud to be interviewed in one of competitions I ever participated in [[News]](http://www.theworldofchinese.com/2013/05/beijings-top-kung-fu-collegiate-showdown/). 
+
 * I love all kinds of sports activities, among which badminton and swimming are my favorite.
