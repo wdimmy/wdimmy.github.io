@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently I am a researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
+I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently, I am a first-year PhD student in the Department of Computer Science at University of Oxford, fortunately supervised by [Prof. Bernardo Cuenca Grau](https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/) and [Ian Horrocks](https://cs.ox.ac.uk/people/ian.horrocks/). Before that, I worked as a NLP researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
 
 ## Latest News
 - 11/2019: Won the Bronze Medal in BAAI-JD Dialogue Challenge 2019. [BAAI-JD](https://jddc.jd.com/).
