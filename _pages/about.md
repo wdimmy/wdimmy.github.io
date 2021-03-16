@@ -13,7 +13,7 @@ I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently, I am a firs
 - 03/2021: One paper is accepted to NAACL 2021 (Mexico City, Mexico).
 - 11/2019: Won the Bronze Medal in BAAI-JD Dialogue Challenge 2019. [BAAI-JD](https://jddc.jd.com/).
 - 05/2019: One paper is accepted and I will give an oral pre at [ACL 2019](http://www.acl2019.org/EN/program.xhtml) (Florence, Italy).
-- 05/2019: One workshop paper is accepted and I will give an oral pre at [IJCAI 2019](https://www.aclweb.org/portal/content/5th-workshop-semantic-deep-learning-semdeep-5) (Macao).
+- 05/2019: One workshop paper is accepted to [IJCAI 2019](https://www.aclweb.org/portal/content/5th-workshop-semantic-deep-learning-semdeep-5) (Macao).
 - 08/2018: One paper is accepted by [EMNLP 2018](https://www.emnlp-ijcnlp2019.org/program/accepted/) (Brussels, Belgium). 
 
 
