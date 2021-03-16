@@ -41,7 +41,7 @@ Experience
 <ul>
     <li>July. 2018 - Sep. 2020, <b>Researcher</b><br> Tencent Cloud AI, Shenzhen, China</li> 
     <li>Jan. 2018 - June. 2018, <b>Research Intern</b><br> Tencent AI Lab, Mentor: <a href="https://www.linkedin.com/in/yan-song-a2918827/" target="_black"> Dr. Yan Song</a></li> 
-    <li>Dec. 2016 - Dec.2017, <b>Research Assistant</b> <br> The Chinese University of Hong Kong, Supervisors: <a href="http://www.cintec.cuhk.edu.hk/kfwong/" target="_black">Prof. WONG, Kam Fai</a>, <a href="http://www1.se.cuhk.edu.hk/~pcfung/" target="_black">Dr. Gabriel Fung</a></li>
+    <li>Dec. 2016 - Dec.2017, <b>Research Assistant</b> <br> The Chinese University of Hong Kong, Supervisors: <a href="http://www.cintec.cuhk.edu.hk/kfwong/" target="_black">WONG, Kam Fai</a>,  <a href="http://www1.se.cuhk.edu.hk/~pcfung/" target="_black">Gabriel Fung</a></li>
     <li>Jun. 2015 -Aug. 2015, <b>Software Engineer Intern</b><br> Microsoft China, Mentor:<a href="https://www.linkedin.com/in/martincai/" target="_black"> Martin Cai </a>
 </li>
 </ul> 
