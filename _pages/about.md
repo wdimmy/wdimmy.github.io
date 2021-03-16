@@ -10,6 +10,7 @@ redirect_from:
 I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently, I am a first-year PhD student in the Department of Computer Science at University of Oxford, fortunately supervised by [Prof. Bernardo Cuenca Grau](https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/) and [Ian Horrocks](https://cs.ox.ac.uk/people/ian.horrocks/). Before that, I worked as a NLP researcher at Tencent, Shenzhen, China. Please feel free to browse my homepage and contact me.
 
 ## Latest News
+- 03/2021: One paper is accepted to NAACL 2021 (Mexico City, Mexico).
 - 11/2019: Won the Bronze Medal in BAAI-JD Dialogue Challenge 2019. [BAAI-JD](https://jddc.jd.com/).
 - 05/2019: One paper is accepted and I will give an oral pre at [ACL 2019](http://www.acl2019.org/EN/program.xhtml) (Florence, Italy).
 - 05/2019: One workshop paper is accepted and I will give an oral pre at [IJCAI 2019](https://www.aclweb.org/portal/content/5th-workshop-semantic-deep-learning-semdeep-5) (Macao).
@@ -18,6 +19,7 @@ I am Dingmin (Dimmy) Wang (汪鼎民) from Fujian, China. Currently, I am a firs
 
 Research Interests
 ======
+* Knowledge Representation and Reasoning
 * Natural language text generation
 * Chinese Spelling Checking, Cross-lingual Part-of-speech Tagging
 * Deep learning and its application on NLP
@@ -25,6 +27,8 @@ Research Interests
 Education
 ======
  <ul>
+      <li>Oct. 2020 - <br>
+      DPhil (Ph.D.), Department of Computer Science, University of Oxford</li>
       <li>Sept. 2015 - Mar. 2018<br>
       M.S., Dept. of Computer Science and Technology, Tsinghua University</li>
       <li>Sept. 2011 - Jun. 2015<br>
