@@ -20,7 +20,7 @@ Dingmin Wang, Yan Song, Jing Li, Jialong Han, Haisong Zhang. <i>EMNLP 2018 </i>.
 
 
 <b>[A New Benchmark and Evaluation Schema for Chinese Typo Detection and Correction](/publications/aaai2018)</b> <br>
-Chien-Sheng Wu, C Xiong, R Socher. <i>AAAI 2018 Student Abstract </i>. 
+Dingmin Wang, Gabriel Pui Cheong Fung, Maxime Debosschere, Shichao Dong, Jia Zhu, Kam-Fai Wong. <i>AAAI 2018 Student Abstract </i>. 
 [[PDF]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16742) [[BibTeX]](/publications/aaai2018)
 
 
