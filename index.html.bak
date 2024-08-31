@@ -1,0 +1,599 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Dingmin Wang's Homepage</title>
+<!-- MathJax -->
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55592620-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55592620-1');
+</script>
+<!-- End Google Analytics -->
+
+<style>
+  .button {
+    background-color: #e7e7e7; color: black;/* Green */
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 4px;
+    cursor: pointer;
+    height: 40px;
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+  }
+</style>
+
+<script>
+  function myFunction(name){
+    var x = document.getElementById(name)
+    if (x.style.display === "none"){
+      x.style.display = null
+    } else {
+      x.style.display = "none"
+    }
+  }
+</script>
+
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-35WVRJS53N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-35WVRJS53N');
+</script>	
+<body>
+<div id="layout-content">
+<p><br/></p>
+
+
+<h1><b>Dingmin Wang (汪鼎民）</b></h1>
+
+<p id=imagewithcaption><img src="dimmy.jpeg" height="150"/></p>
+
+<style>
+#imagewithcaption {
+   float:right;
+   width: 260px;
+   text-align:center;
+   font-size: 13px;
+}
+.licap {
+  display: inline; /* Makes the list items appear on the same line */
+  margin-right: 2px;
+  font-size: 24px;
+}
+
+
+.scroll-container {
+    height: 200px; /* Set the height of the container */
+    padding: 1px; /* Optional: Add padding inside the container */
+    overflow: auto; /* This will add a scrollbar if content overflows */
+}
+
+</style>
+
+<style>
+  .card-container {
+    display: flex;
+    gap: 5px; /* Space between the cards */
+  }
+
+  .card {
+      display: flex;
+      align-items: center;
+      width: 400px;
+  }
+  .smallcard {
+      display: flex;
+      align-items: center;
+      width: 320px;
+  }
+
+  .longcard {
+      padding: 5px;
+      display: flex;
+      align-items: center;
+      width: 700px;
+  }
+
+  .logo {
+      width: 50px;
+      height: 50px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+  }
+
+  .logo img {
+      width: 80%;
+  }
+
+  .content {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .content .title {
+      font-weight: bold;
+  }
+
+  .content .subtitle {
+      font-size: 12px;
+      color: #080000;
+      margin-top: 5px;
+  }
+  .year{
+      font-size: 14px;
+      color: #080000;
+  }
+
+  .school{
+      font-size: 15px;
+      color: #080000;
+      margin-top: 5px;
+  }
+
+</style>
+
+
+<p><a href="http://www.cs.ox.ac.uk/">Department of Computer Science, </a><br/>
+<a href="http://www.ox.ac.uk/">University of Oxford</a> <br/>
+<b>Email:</b> wangdimmy@gmail.com<br/> 
+
+
+
+<!-- <a name="bio"><h2>Biography</h2></a> -->
+<p>I am a final-year DPhil (Ph.D.) candidate at the <a href="http://www.ox.ac.uk/">University of Oxford</a>, fortunately advised by <a href="https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/">Bernardo Cuenca Grau</a> and <a href="https://www.cs.ox.ac.uk/people/przemyslaw.walega/"> Przemysław Andrzej Wałęga</a>. My DPhil studies at Oxford are conducted under the auspices of an <a href="https://epsrc.ukri.org/skills/students/dta/">EPSRC Studentship</a>. I am also fortunate to be selected as a member of <a href="https://www.ox.ac.uk/clarendon">2020 Oxford Clarendon Scholars</a>. Previously, I worked as a full-time NLP reseacher at <a href="https://www.tencent.com/en-us">Tencent</a>. I obtained my M.Eng. degree from <a href="https://www.cs.tsinghua.edu.cn/csen/">Department of Computer Science</a>, <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a> in 2018.</p>
+<p>I am broadly interested in natural language processing and deep learning, with a particular focus on developing efficient and explainable artificial intelligence systems. 
+<!-- My current research interests include:
+<ul>
+   <li>Applications of Large Language Models </li>	
+   <li>Symbolic AI (reasoning over temporal data using DatalogMTL)</li>
+   <li>Temporal Knowledge Graphs & Graph Neural Networks</li> 
+   <li>Neuro-symbolic AI (e.g., integration of symbolic knowledge into deep learning models)</li>
+</ul>
+ -->
+ <!-- <br/>
+ <br/>
+<hr/>
+<ul style="text-align: center">
+   <li class="licap"><a href="#bio">Bio/</a> </li>
+   <li class="licap"><a href="#news">News/</a> </li>
+   <li class="licap"><a href="#pub">Publications/</a> </li>
+   <li class="licap"><a href="#experience">Experience/</a> </li>
+   <li class="licap"><a href="#awards">Awards/</a> </li>
+   <li class="licap"><a href="#service">Service</a> </li>
+</ul>
+<hr/> -->
+
+
+<a name="news"><h2>Recent News</h2></a>
+(Scroll down for more ...) ⬇️
+<ul class="scroll-container">
+  <li> <p><b>2024.07: </b> 🎉🎉 A <b>first-author</b> paper got accepted by <a href="https://kr.org/KR2024/"> the Special Track on Reasoning, Learning, & Decision Making of the 21st International Conference on Principles of Knowledge Representation and Reasoning (KR-24)</a>. The acceptance rate was <b>17%</b>.</li>
+  <li> <p><b>2024.06: </b> 🎉🎉🌺🌺 I was granted <b>Leave to Supplicate</b> by University of Oxford, meaning that I am officially Dr. Wang now.</li>
+  
+  <li> <p><b>2024.05: </b> 🎉🎉 A <b>first-author</b> paper  got accepted by  <a href="https://2024.aclweb.org">the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)</a>. My another <b>first-author</b><a hrf="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00646/120574/Retrieve-What-You-Need-A-Mutual-Learning-Framework">TACL paper</a> will also be presented in ACL 2024. See you in Bangkok, Thailand.</li>
+  <li> <p><b>2024.05: </b> 🎉 A co-author paper got accepted by the Applied Data Science (ADS) Track of <a href="https://kdd2024.kdd.org/">2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024).</a> The acceptance rate was <b>20%</b>.</li>
+
+  <li> <p> <b>2024.05: </b>  🎉🎉 A <b>first-author</b> journal paper got accepted by <a href="https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming">Theory and Practice of Logic Programming.</a></li>
+
+  <li> <p><b>2023.12: </b> A <b>first-author</b> journal paper got accepted by <a href="https://transacl.org/index.php/tacl/about">Transactions of the Association for Computational Linguistics (TACL)</a>.</li>
+  
+  <li> <p><b>2023.12: </b> 🎉 A co-author paper  got accepted by <a href="https://aaai.org/aaai-conference/">the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)</a>. The overall acceptance rate was <b>23.75%</b>.</li>
+  <li><p><b>2023.11: </b> 🎉🎉🎉 🎖️🎖️ Extremely honored to receive <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad
+  ">2023 Chinese Government Award for Outstanding Self-financed Students Abroad</a>. Each year, the award globally recognizes 650 outstanding students.</li>
+  <li> <p><b>2023.09: </b> Happy to receive the NeurIPS 2023 Scholar Award. See you in New Orleans, Louisiana, USA. </li>
+	
+  <li> <p><b>2023.09:</b> 🎉🎉 A <b>first-author</b> paper got accepted by <a href="https://nips.cc/Conferences/2023">the Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023).</a> The overal acceptance rate was <b>26%</b>.</li>
+  <li> <p><b>2023.05:</b> 🎉🎉 A <b>first-author</b> paper got accepted by <a href="https://ecai2023.eu/">26th European Conference on Artificial Intelligence  (ECAI 2023)</a>. The overall acceptance rate was  <b>23%</b>. </li>
+  <li> <p><b>2022.11:</b> 🎉🎉  <b>first-author</b> and one co-author paper got accepted by <a href="https://aaai.org/Conferences/AAAI-23/">the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2023)</a> as <b>oral presentation</b>. The overall acceptance rate was <b>19.6%</b>.</li>
+</ul>
+
+
+<a name="pub"><h2>Publications <a href="https://scholar.google.com/citations?user=zpidC7IAAAAJ&hl=en">[Google Scholar Profile]</a></h2></a>
+<h5>2024</h5>
+<p> Contextual Distillation Model for Diversified Recommendation, <br />
+  Fan Li, Xu Si, Shisong Tang, <b>Dingmin Wang</b>, Kunyan Han, Bing Han, Guorui Zhou, Yang Song, Hechang Chen.<br />
+<i>KDD, 2024</i>. [<a href="https://arxiv.org/pdf/2406.09021">PDF</a>] <br/> 
+
+<p> Fine-tuning Language Models for Joint Rewriting and Completion of Code with Potential Bugs, <br />
+  <b>Dingmin Wang</b>, , Jinman Zhao, Hengzhi Pei, Samson Tan, Sheng Zha.<br />
+
+<p> Retrieve What You Need: A Mutual Learning Framework for Open-domain Question Answering, <br />
+  <b>Dingmin Wang</b>, Qiuyuan Huang, Matthew Jackson, Jianfeng Gao.<br />
+<i>TACL, 2024</i>. [<a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00646/120574/Retrieve-What-You-Need-A-Mutual-Learning-Framework">PDF</a>] [<a href="#">CODE</a>]<br/>
+
+<p> Working Memory Capacity of ChatGPT: An Empirical Study, <br />
+  Dongyu Gong, Xingchen Wan, <b>Dingmin Wang</b>.<br />
+<i>AAAI</i>, 2024. [To appear] [<a href="https://arxiv.org/abs/2305.03731">PDF</a>] [<a href="https://github.com/Daniel-Gong/ChatGPT_WM">CODE</a>]<br/>
+
+<h5>2023</h5>
+<p> An Empirical Study of Retrieval-enhanced Graph Neural Networks, <br />
+  <b>Dingmin Wang</b>, Shengchao Liu, Hanchen Wang, Bernardo Cuenca Grau, Linfeng Song, Jian Tang, Le Song, Qi Liu.<br />
+<i>ECAI</i>, 2023. [<a href="http://arxiv.org/abs/2206.00362">PDF</a>] [<a href="https://github.com/wdimmy/StreamReasoningWithDatalogMTL">CODE</a>]<br/>
+
+<p> Counterfactual Video Recommendation for Duration Debiasing, <br />
+  Shisong Tang, Qing Li, <b>Dingmin Wang</b>, Ci Gao, Wentao Xiao, Dan Zhao, Yong Jiang, Qian Ma, Aoyang Zhang.<br />
+<i>KDD</i>, 2023. [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599797">PDF</a>]<br/>
+
+
+
+<a name="pub"><h2>Publications <a href="https://scholar.google.com/citations?user=zpidC7IAAAAJ&hl=en">[Google Scholar Profile]</a></h2></a>
+<h4>
+<button class="button" onclick="myFunction(&#39;nlpdl&#39;)" style="text-align: left;">
+Natural Lanugage Processing & Deep Learning
+</button>
+</h4>
+<ul id="nlpdl" style="display: none;">
+  <li><p> Contextual Distillation Model for Diversified Recommendation, <br />
+    Fan Li, Xu Si, Shisong Tang, <b>Dingmin Wang</b>, Kunyan Han, Bing Han, Guorui Zhou, Yang Song, Hechang Chen.<br />
+  <i>KDD, 2024</i>. [<a href="https://arxiv.org/pdf/2406.09021">PDF</a>] <br/> <b>To Appear</b>
+  </li>
+  <li><p> Fine-tuning Language Models for Joint Rewriting and Completion of Code with Potential Bugs, <br />
+    <b>Dingmin Wang</b>, , Jinman Zhao, Hengzhi Pei, Samson Tan, Sheng Zha.<br />
+  <i>ACL Findings, 2024</i>. [<a href="#">PDF</a>] [<a href="#">CODE</a>]<br/> <b>To Appear</b>
+  </li>
+ 
+  <li><p> Retrieve What You Need: A Mutual Learning Framework for Open-domain Question Answering, <br />
+    <b>Dingmin Wang</b>, Qiuyuan Huang, Matthew Jackson, Jianfeng Gao.<br />
+  <i>TACL, 2024</i>. [<a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00646/120574/Retrieve-What-You-Need-A-Mutual-Learning-Framework">PDF</a>] [<a href="#">CODE</a>]<br/>
+  </li>
+ 
+  <li><p> Working Memory Capacity of ChatGPT: An Empirical Study, <br />
+    Dongyu Gong, Xingchen Wan, <b>Dingmin Wang</b>.<br />
+ <i>AAAI</i>, 2024. [To appear] [<a href="https://arxiv.org/abs/2305.03731">PDF</a>] [<a href="https://github.com/Daniel-Gong/ChatGPT_WM">CODE</a>]<br/>
+ </li>
+
+
+ <li><p> An Empirical Study of Retrieval-enhanced Graph Neural Networks, <br />
+  <b>Dingmin Wang</b>, Shengchao Liu, Hanchen Wang, Bernardo Cuenca Grau, Linfeng Song, Jian Tang, Le Song, Qi Liu.<br />
+<i>ECAI</i>, 2023. [<a href="http://arxiv.org/abs/2206.00362">PDF</a>] [<a href="https://github.com/wdimmy/StreamReasoningWithDatalogMTL">CODE</a>]<br/>
+</li>
+
+
+<li><p> Counterfactual Video Recommendation for Duration Debiasing, <br />
+  Shisong Tang, Qing Li, <b>Dingmin Wang</b>, Ci Gao, Wentao Xiao, Dan Zhao, Yong Jiang, Qian Ma, Aoyang Zhang.<br />
+<i>KDD</i>, 2023. [<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599797">PDF</a>]<br/>
+</li>
+
+<li><p> Knowledge-based Temporal Fusion Network for Interpretable Online Video Popularity Prediction, <br />
+  Shisong Tang, Qing Li, Xiaoteng Ma, Ci Gao, <b>Dingmin Wang</b>, Yong Jiang, Qian Ma, Aoyang Zhang, Hechang Chen.<br />
+ <i>WWW</i>, 2022. [<a href="https://dl.acm.org/doi/pdf/10.1145/3485447.3511934">PDF</a>]<br/>
+</li>
+
+
+ <li><p>A Template-guided Hybrid Pointer Network for Knowledge-based Task-oriented Dialogue Systems, <br />
+  <b>Dingmin Wang</b>, Ziyao Chen, Wanwei He, Li Zhong, Yunzhe Tao, Min Yang.<br />
+  <i>DialDoc@ACL</i>, 2021. [<a href="https://aclanthology.org/2021.dialdoc-1.3/">PDF</a>] [<a href="https://github.com/wdimmy/THPN">CODE</a>]<br/>
+ </li>
+
+ <li><p>Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition, <br />
+  <b>Dingmin Wang</b>, Chenghua Lin, Qi Liu, Kam-Fai Wong.<br />
+  <i>NAACL</i>, 2021. [<a href="https://aclanthology.org/2021.naacl-main.27.pdf">PDF</a>] <br/>
+</li>
+
+<li><p>Confusionset-guided Pointer Networks for Chinese Spelling Check, <br />
+<b>Dingmin Wang</b>, Yi Tay, Li Zhong.<br />
+<i>ACL</i>, 2019.  [<a href="https://aclanthology.org/P19-1578/">PDF</a>]<br/>
+</li>
+  
+<li><p>A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check, <br />
+<b>Dingmin Wang</b>, Yan Song, Jing Li, Jialong Han, Haisong Zhang.<br />
+<i>EMNLP</i>, 2018.  [<a href="https://www.aclweb.org/anthology/D18-1273/">PDF</a>][<a href="https://github.com/wdimmy/Automatic-Corpus-Generation">CODE</a>]<br/>
+</li>
+
+<li><p>A New Benchmark and Evaluation Schema for Chinese Typo Detection and Correction, <br />
+<b>Dingmin Wang</b>,Gabriel Pui Cheong Fung, Maxime Debosschere, Shichao Dong, Jia Zhu, Kam-Fai Wong.<br />
+<i>AAAI-SA</i>, 2018.  [<a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16742">PDF</a>][<a href="https://github.com/wdimmy/LmCSC">CODE</a>]<br/>
+</li>
+
+<li><p>Bridging the Gap: Improve Part-of-speech Tagging for {C}hinese Social Media Texts with Foreign Words, <br />
+  <b>Dingmin Wang</b>, Meng Fang, Yan Song, Juntao Li.<br />
+  <i>SemDeep@IJCAI</i>, 2019.  [<a href="https://www.aclweb.org/anthology/W19-5803/">PDF</a>]
+</li>
+
+<li><p>NLPTEA 2017 Shared Task – Chinese Spelling Check, <br />
+  Gabriel Pui Cheong Fung, Maxime Debosschere, <b>Dingmin Wang</b>, Bo Li, Jia Zhu, and Kam-Fai Wong.<br />
+  <i>IJCNLP Shared Task</i>, 2017. [<a href="https://www.aclweb.org/anthology/W17-5905">PDF</a>]<br/>
+</li>
+</ul>
+
+<h4>
+  <button class="button" onclick="myFunction(&#39;symbolicai&#39;)" style="text-align: left;">
+  Symbolic AI (Temporal Logic)
+  </button>
+</h4>
+
+<ul id="symbolicai" style="display: none;">
+
+<li><p> Practical Reasoning in DatalogMTL, <br />
+    <b>Dingmin Wang</b>, Pan Hu, Przemysław Andrzej Wałęga, Bernardo Cuenca Grau.<br />
+<i>Theory and Practice of Logic Programming (TPLP)</i>, 2023. [<a href="https://arxiv.org/pdf/2401.02869.pdf">PDF</a>] [<a href="https://github.com/wdimmy/DatalogMTL_Practical_Reasoning">CODE</a>]
+</li>
+
+<li><p> Stream reasoning with DatalogMTL, <br />
+    Przemysław Andrzej Wałęga, Mark Kaminski, <b>Dingmin Wang</b>, Bernardo Cuenca Grau.<br />
+ <i>Journal of Semantic Web. [<a href="https://www.sciencedirect.com/science/article/pii/S1570826823000057">PDF</a>] [<a href="https://github.com/wdimmy/StreamReasoningWithDatalogMTL">CODE</a>]
+ </li>
+
+<li><p> Materialisation-based Reasoning in DatalogMTL with Bounded Intervals, <br />
+  Przemysław Andrzej Wałęga, Michał Zawidzki, <b>Dingmin Wang</b>, Bernardo Cuenca Grau.<br />
+<i>AAAI</i>, 2023. [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25807">PDF</a>] [<a href="https://github.com/wdimmy/DatalogMTLPeriodicity">CODE</a>]
+</li>
+
+<li><p> Stream reasoning with DatalogMTL, <br />
+  Przemysław Andrzej Wałęga, Mark Kaminski, <b>Dingmin Wang</b>, Bernardo Cuenca Grau.<br />
+<i>Journal of Semantic Web. [<a href="https://www.sciencedirect.com/science/article/pii/S1570826823000057">PDF</a>] [<a href="https://github.com/wdimmy/StreamReasoningWithDatalogMTL">CODE</a>]
+</li>
+
+<li><p> Seminaïve Materialisation in DatalogMTL, <br />
+  <b>Dingmin Wang</b>, Przemysław Andrzej Wałęga, Bernardo Cuenca Grau.<br />
+ <i>Declarative AI</i>, 2022. [<a href="https://www.springerprofessional.de/en/seminaive-materialisation-in-datalogmtl/23822486">PDF</a>] [<a href="https://github.com/wdimmy/MeTeoR">CODE</a>]<br/>
+</li>
+
+<li><p> MeTeoR: Practical Reasoning in Datalog with Metric Temporal Operators, <br />
+  <b>Dingmin Wang</b>, Pan Hu, Przemysław Andrzej Wałęga, Bernardo Cuenca Grau.<br />
+<i>AAAI</i>, 2022. [<a href="https://ojs.aaai.org/index.php/AAAI/article/download/20535/version/18832/20294">PDF</a>] [<a href="https://github.com/wdimmy/MeTeoR">CODE</a>]
+</li>
+</ul>
+
+<h4>
+  <button class="button" onclick="myFunction(&#39;neurosymbolic&#39;)" style="text-align: left;">
+  Neuro-symbolic & Explainable AI
+  </button>
+</h4>
+<ul id="neurosymbolic" style="display: none;">
+
+<li><p> Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs, <br />
+    <b>Dingmin Wang</b>, Yeyuan Chen.<br />
+<i>NeurIPS, 2023</i>. [<a href="https://openreview.net/pdf?id=AtHJ7TLheF">PDF</a>] [<a href="#">CODE</a>]
+</li>
+
+<li><p> Efficient Embeddings of Logical Variables for Query Answering over Incomplete Knowledge Graphs, <br />
+  <b>Dingmin Wang</b>, Yeyuan Chen, Bernardo Cuenca Grau.<br />
+<i>AAAI</i>, 2023. [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25588">PDF</a>] [<a href="https://github.com/wdimmy/Var2Vec">CODE</a>]
+</li>
+</ul>
+
+<!-- <h4>
+  <button class="button" onclick="myFunction(&#39;other&#39;)" style="text-align: left;">
+  Other Papers
+  </button>
+</h4> -->
+<!-- <ul id="other" style="display: none;">
+<li><p>HQTimer: A Hybrid Q-Learning-Based Timeout Mechanism in Software-Defined Networks, <br />
+    Qing Li, Nanyang Huang, <b>Dingmin Wang</b>, Xiaowen Li, Yong Jiang, Zhendong Song.<br />
+    <i>IEEE Trans. Network and Service Management</i>  (<b>TNSM</b>), 2019.  [<a href="https://ieeexplore.ieee.org/document/8600383">PDF</a>]<br/>
+</li>
+</ul> -->
+
+
+<a name="education"><h2>Education</h2></a>
+
+<div class="longcard">
+  <div class="logo">
+      <img src="images/oxford.png" alt="oxford Logo">
+  </div>
+  <div class="content">
+      <div class="year">Oct. 2020 - June. 2024</div>
+      <div class="school">Ph.D, <a href="https://www.cs.ox.ac.uk/people/dingmin.wang/">Department of Computer Science, University of Oxford </a></div>
+  </div>
+</div>
+
+<div class="longcard">
+  <div class="logo">
+      <img src="images/tsinghua.png" alt="nceput Logo">
+  </div>
+  <div class="content">
+      <div class="year">Aug. 2015 - Jun. 2018</div>
+      <div class="school">M.S., <a href="https://www.cs.tsinghua.edu.cn/csen/"> Department of Computer Science, Tsinghua University</a></div>
+  </div>
+</div>
+
+
+<div class="longcard">
+  <div class="logo">
+      <img src="images/ncepu.png" alt="ncepu Logo">
+  </div>
+  <div class="content">
+      <div class="year">Aug. 2011 - Jun. 2015</div>
+      <div class="school">B.E., <a href="https://cce.ncepu.edu.cn/">School of Control and Computer Engineering, North China Electric Power University</a></div>
+  </div>
+</div>
+
+<br/>
+
+<!-- 
+<p>Oct. 2020 - June. 2024<br/>
+Ph.D, <a href="https://www.cs.ox.ac.uk/people/dingmin.wang/">Department of Computer Science, University of Oxford </a><br/>
+
+<p>Sep. 2015 - Mar. 2018 <br/>
+M.S., <a href="https://www.cs.tsinghua.edu.cn/csen/"> Department of Computer Science, Tsinghua University</a> <br/>
+
+<p>Sep. 2011 - Jun. 2015<br/>
+B.E., <a href="https://cce.ncepu.edu.cn/">School of Control and Computer Engineering, North China Electric Power University</a> <br/>
+ -->
+
+
+<a name="experience"><h2>Work Experience</h2></a>
+
+<p><a href="https://research.google/">Google Research, London, UK</a><br/>
+Student Researcher, April. 2024 - July. 2024<br/>
+	
+<p><a href="https://www.tencent.com/en-us">Tencent Cloud AI, Shenzhen</a><br/>
+Researcher, July. 2018 - Oct. 2020<br/>
+
+<p><a href="https://ai.tencent.com/ailab/en/about/">Tencent AI Lab, Shenzhen</a><br />
+Research Intern, advised by <a href="https://clksong.github.io/">Yan Song</a>, Dec. 2017 - Jun. 2018<br/>
+
+<p><a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a><br />
+Research Assistant, advised by  <a href="http://www.cintec.cuhk.edu.hk/kfwong/index.html">Kam-Fai Wong</a> and <a href="https://www1.se.cuhk.edu.hk/~pcfung/">Gabriel Fung</a>, Feb. 2017 - Dec. 2017 <br/>
+
+
+<p><a href="https://www.linkedin.com/company/microsoft-china-co.-ltd.-beijing-office/about/">Microsoft, Beijing</a><br />
+Software Engineer Intern, advised by <a href="https://www.linkedin.com/in/martincai/">Martin Cai</a>, Jun. 2015 - Aug. 2015 <br/>
+
+
+<a name="award"><h2>Selected Honors &amp; Awards</h2></a>
+<div class="card-container">
+  <div class="card">
+    <div class="logo">
+        <img src="images/oxford.jpg" alt="Clarendon Logo">
+    </div>
+    <div class="content">
+        <div class="title">Clarendon Scholar</div>
+        <div class="subtitle">University of Oxford · 2020 – 2024</div>
+    </div>
+  </div>
+  <div class="longcard">
+    <div class="logo">
+        <img src="images/epsrc.png" alt="epsrc Logo">
+    </div>
+    <div class="content">
+        <div class="title">EPSRC Studentship</div>
+        <div class="subtitle">Engineering & Physical Sciences Research Council · Oct 2020 – Mar 2024</div>
+    </div>
+  </div>
+</div>
+
+<div class="card-container">
+  <div class="card">
+    <div class="logo">
+        <img src="images/icml.png" alt="icml Logo">
+    </div>
+    <div class="content">
+        <div class="title">Outstanding Reviewer</div>
+        <div class="subtitle"> ICML 2022</div>
+    </div>
+  </div>
+  <div class="longcard">
+    <div class="logo">
+        <img src="images/csc.png" alt="csc Logo">
+    </div>
+    <div class="content">
+        <div class="title">Chinese Government Award for Outstanding <br/>Self-financed Students Abroad</div>
+        <div class="subtitle">China Scholarship Council · 2023</div>
+    </div>
+  </div>
+</div>
+<div class="card-container">
+  <div class="smallcard">
+    <div class="logo">
+        <img src="images/nerips.png" alt="neurips Logo">
+    </div>
+    <div class="content">
+        <div class="title">NeurIPS Scholar Award</div>
+        <div class="subtitle">NeurIPS Foundation · 2023</div>
+    </div>
+  </div>
+  <div class="smallcard">
+    <div class="logo">
+        <img src="images/aaai.png" alt="aaai Logo">
+    </div>
+    <div class="content">
+        <div class="title">AAAI Student Scholarship </div>
+        <div class="subtitle">AAAI · 2022, 2023</div>
+    </div>
+  </div>
+  <div class="smallcard">
+    <div class="logo">
+        <img src="images/ecai.png" alt="ecai Logo">
+    </div>
+    <div class="content">
+        <div class="title">ECAI Travel Award</div>
+        <div class="subtitle">EurAI· 2013</div>
+    </div>
+  </div>
+  <!-- <div class="smallcard">
+    <div class="logo">
+        <img src="images/china.png" alt="china Logo">
+    </div>
+    <div class="content">
+        <div class="title">KR Travel Grant </div>
+        <div class="subtitle">Ministry of Education of P.R.China · 2013</div>
+    </div>
+  </div> -->
+</div>
+<br/>
+
+
+<!-- <div class="card-container">
+  <div class="card">
+    <div class="logo">
+        <img src="images/ncepu.png" alt="ncepu Logo">
+    </div>
+    <div class="content">
+        <div class="title">Presidential Scholarship</div>
+        <div class="subtitle"> NCEPU · 2014</div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="logo">
+        <img src="images/china.png" alt="china Logo">
+    </div>
+    <div class="content">
+        <div class="title">National Scholarship for Undergraduates </div>
+        <div class="subtitle">Ministry of Education of P.R.China · 2013</div>
+    </div>
+  </div>
+</div> -->
+<br/>
+
+<!-- NeurIPS 2023 Scholar Award, Outstanding Reviewer of ICML 2022<br />
+First Prize in Stream Reasoning Hackathon, 2021<br />
+EPSRC Studentship, University of Oxford, 2020<br />
+Clarendon Scholar, University of Oxford, 2020 <br />
+Bronze Medal in BAAI-JD Dialogue Challenge, 2019<br />
+First Prize Scholarship for Student Professional Practice, Tsinghua University, 2015<br />
+Second Prize Scholarship, Tsinghua University, 2014<br />
+Outstanding Gradaute Among College Students in Beijing, 2015<br />
+Principal Scholarship, Highest Honor for Undergraduates, North China Electric Power University, 2015<br />
+China National Scholarship, 2014<br /><br/> -->
+
+<a name="service"><h2>Professional Services</h2></a>
+<h4>Program Committee Member</h4>
+<ul>
+  <li><b>2024: </b>AAAI, ACL Rolling Review</li>
+  <li><b>2023: </b>AAAI, COMSYS, NeurIPS, ACL Rolling Review, Instruction@NeurIPS</li>
+  <li><b>2022: </b>AAAI, ICML, WWW</li>
+  <li><b>2021 and before: </b> EMNLP, AAAI, NLPCC</li>
+</ul>
+<h4>Journal Reviewer</h4>
+<ul>
+   <li>Transactions on Knowledge and Data Engineering (TKDE)</li>
+   <li> Neurocomputing</li>
+   <li> Transactions on Asian and Low-Resource Language Information Processing (TALLIP) </li>
+</ul>
+
+<h4>Tutorials</h4>
+<ul>
+  <li>Co-organizer, Tutorial titled <a href="https://kr2022.cs.tu-dortmund.de/workshops_and_tutorials.php">Theory and Practice of Temporal Reasoning</a> on KR 2022.
+  </li>
+</ul>
+</body>
+</html>
